@@ -7,3 +7,12 @@ __pycache__/
 
 # Mac Os folder config
 .DS_Store
+
+# Ignore downloaded files from inegi/denue
+data/denue/*.zip
+
+# Ignore processed files, they don't need to be tracked
+data/processed
+
+# Ignore ouput figures
+reports/figures
