@@ -1,44 +1,27 @@
-import os
-import sys
-
-import pickle
-import zipfile
-import re
 import datetime
-
-import urllib3
-import http.client, urllib.request, urllib.parse, urllib.error, base64
-import requests
-import json
-
-
 import pandas as pd
+import geopandas as gp
 import numpy as np
+import zipfile
+import os
 import matplotlib.pyplot as plt
-from itertools import combinations
 
-#Analytical
-import networkx as nx
-import community
+# Analytical
+#import networkx as nx
+#import community
 
-#Other
-import ratelim
-from bs4 import BeautifulSoup
-
-
-#Paths
-top = os.path.dirname(os.getcwd())
-
-#External data
-ext_data = os.path.join(top,'data/external')
-
-#Interim data (to place seed etc)
-int_data = os.path.join(top,'data/interim')
-
-#Figures
-fig_path = os.path.join(top,'reports/figures')
-
-#Get date for saving files
 today = datetime.datetime.today()
+today_str = "_".join([str(x) for x in [today.day, today.month, today.year]])
 
-today_str = "_".join([str(x) for x in [today.day,today.month,today.year]])
+cwd = os.path.dirname(os.getcwd())
+
+data_dir = os.path.join(cwd, 'data')
+processed_dir = os.path.join(data_dir, 'processed')
+shapefile_dir = os.path.join(data_dir, 'shapefiles')
+denue_dir = os.path.join(data_dir, 'denue') 
+
+reports_dir = os.path.join(cwd, 'reports')
+fig_dir = os.path.join(reports_dir, 'figures')
+
+data_dir = os.path.join(cwd, 'data')
+denue_dir = os.path.join(data_dir, 'denue') 
