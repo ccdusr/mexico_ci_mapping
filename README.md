@@ -7,11 +7,16 @@ Project Organization
 ------------
 
     .
+    ├── data
+    │   ├── denue
+    │   ├── processed
+    │   └── shapefiles
+    │       └── mexico
     ├── notebooks
     ├── references
     │   └── reading
     ├── reports
+    │   ├── Project\ reports\ and\ slides
     │   ├── data_sources
     │   └── figures
-    │       └── Project reports and slides
     └── src
