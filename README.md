@@ -5,10 +5,10 @@ A project to map the creative industries in Mexico
 
 Project Organization
 ------------
-
     .
     ├── data
     │   ├── denue
+    │   ├── nesta
     │   ├── processed
     │   └── shapefiles
     │       └── mexico
@@ -16,7 +16,7 @@ Project Organization
     ├── references
     │   └── reading
     ├── reports
-    │   ├── Project\ reports\ and\ slides
     │   ├── data_sources
-    │   └── figures
+    │   ├── figures
+    │   └── project_reports_and_slides
     └── src

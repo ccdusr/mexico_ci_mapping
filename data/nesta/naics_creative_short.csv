@@ -1,0 +1,197 @@
+code_en,sector_spanish,code_es,sector_english,creative_nesta_2016,creative_refined,creative_sector,has_creative,code_int
+3279,Fabricación de otros productos a base de minerales no metálicosT,3279,Other nonmetallic mineral products manufacturingT,1.0,1.0,crafts,1,3279
+32791,Fabricación de productos abrasivosT,32791,Abrasive products manufacturingT,1.0,1.0,crafts,1,32791
+327910,Fabricación de productos abrasivos,327910,Abrasive products manufacturing,1.0,1.0,crafts,1,327910
+32799,Fabricación de otros productos a base de minerales no metálicosT,32799,Other nonmetallic mineral products manufacturingT,1.0,1.0,crafts,1,32799
+327991,Fabricación de productos a base de piedras de cantera,327991,Manufacturing of products based on quarry stone,1.0,1.0,crafts,1,327991
+327999,Fabricación de otros productos a base de minerales no metálicos,327999,Other nonmetallic mineral products manufacturing,1.0,1.0,crafts,1,327999
+339911,Acuñación e impresión de monedas,339911,Coin minting and stamping,,1.0,crafts,1,339911
+339912,Orfebrería y joyería de metales y piedras preciosos,339912,Precious metals and stones hollowware and jewelry,,1.0,crafts,1,339912
+339913,Joyería de metales y piedras no preciosos y de otros materiales,339913,Nonprecious metals and stones jewelry,,1.0,crafts,1,339913
+339914,Metalistería de metales no preciosos,339914,Nonprecious metalwork,,1.0,crafts,1,339914
+33992,Fabricación de artículos deportivosT,33992,Sporting goods manufacturingT,1.0,1.0,crafts,1,33992
+339920,Fabricación de artículos deportivos,339920,Sporting goods manufacturing,1.0,1.0,crafts,1,339920
+33993,Fabricación de juguetesT,33993,Toys manufacturingT,1.0,1.0,crafts,1,33993
+339930,Fabricación de juguetes,339930,Toys manufacturing,1.0,1.0,crafts,1,339930
+51111,Edición de periódicos y edición de estas publicaciones integrada con la impresiónT,51111,"Newspaper publishing, and integrated newspaper publishing and printingT",1.0,1.0,publishing,1,51111
+511111,Edición de periódicos,511111,Newspaper publishing,,1.0,publishing,1,511111
+511112,Edición de periódicos integrada con la impresión,511112,Integrated newspaper publishing and printing,,1.0,publishing,1,511112
+51112,Edición de revistas y otras publicaciones periódicas y edición de estas publicaciones integrada con la impresiónT,51112,"Magazine and other periodical publications publishing, and integrated magazine and other periodical publications publishing and printingT",1.0,1.0,publishing,1,51112
+511121,Edición de revistas y otras publicaciones periódicas,511121,Magazine and other periodical publications publishing,1.0,1.0,publishing,1,511121
+511122,Edición de revistas y otras publicaciones periódicas integrada con la impresión,511122,Integrated magazine and other periodical publications publishing and printing,1.0,1.0,publishing,1,511122
+51113,Edición de libros y edición de estas publicaciones integrada con la impresiónT,51113,"Book publishing, and integrated book publishing and printingT",1.0,1.0,publishing,1,51113
+511131,Edición de libros,511131,Book publishing,1.0,1.0,publishing,1,511131
+511132,Edición de libros integrada con la impresión,511132,Integrated book publishing and printing ,1.0,1.0,publishing,1,511132
+51114,"Edición de directorios y de listas de correo, y edición de estas publicaciones integrada con la impresiónT",51114,"Directory and mailing list publishing, and integrated directory and mailing list publishing and printingT",1.0,1.0,publishing,1,51114
+511141,Edición de directorios y de listas de correo,511141,Directory and mailing list publishing,1.0,1.0,publishing,1,511141
+511142,Edición de directorios y de listas de correo integrada con la impresión,511142,Integrated directory and mailing list publishing and printing,1.0,1.0,publishing,1,511142
+51119,Edición de otros materiales y edición de estas publicaciones integrada con la impresiónT,51119,"Other materials publishing, and integrated publishing and printing of other materialsT",1.0,1.0,publishing,1,51119
+511191,Edición de otros materiales,511191,Other materials publishing,1.0,1.0,publishing,1,511191
+511192,Edición de otros materiales integrada con la impresión,511192,Integrated publishing and printing of other materials ,1.0,1.0,publishing,1,511192
+5112,Edición de software y edición de software integrada con la reproducciónT,5112,"Software publishing, and integrated software publishing and reproductionT",1.0,1.0,software,1,5112
+51121,Edición de software y edición de software integrada con la reproducciónT,51121,"Software publishing, and integrated software publishing and reproductionT",1.0,1.0,software,1,51121
+511210,Edición de software y edición de software integrada con la reproducción,511210,"Software publishing, and integrated software publishing and reproduction",1.0,1.0,software,1,511210
+512,"Industria fílmica y del video, e industria del sonidoT",512,"Film and video industry, and sound recording industryT",1.0,1.0,software,1,512
+5121,Industria fílmica y del videoT,5121,Film and video industryT ,1.0,1.0,film_radio_tv,1,5121
+51211,"Producción de películas, programas para la televisión y otros materiales audiovisualesT",51211,"Motion pictures, television programs and other audiovisual materials productionT",1.0,1.0,film_radio_tv,1,51211
+512111,Producción de películas,512111,Motion pictures production,1.0,1.0,film_radio_tv,1,512111
+512112,Producción de programas para la televisión,512112,Television programs production,1.0,1.0,film_radio_tv,1,512112
+512113,"Producción de videoclips, comerciales y otros materiales audiovisuales",512113,"Music videos, commercials, and other audiovisual materials production",1.0,1.0,film_radio_tv,1,512113
+51212,Distribución de películas y de otros materiales audiovisualesT,51212,Motion pictures and other audiovisual materials distributionT,1.0,1.0,film_radio_tv,1,51212
+512120,Distribución de películas y de otros materiales audiovisuales,512120,Motion pictures and other audiovisual materials distribution,1.0,1.0,film_radio_tv,1,512120
+51213,Exhibición de películas y otros materiales audiovisualesT,51213,Motion pictures and other audiovisual materials exhibitionT,1.0,1.0,film_radio_tv,1,51213
+512130,Exhibición de películas y otros materiales audiovisuales,512130,Motion pictures and other audiovisual materials exhibition,1.0,1.0,film_radio_tv,1,512130
+51219,Servicios de postproducción y otros servicios para la industria fílmica y del videoT,51219,"Post-production services, and other services for the film and video industryT",1.0,1.0,film_radio_tv,1,51219
+512190,Servicios de postproducción y otros servicios para la industria fílmica y del video,512190,"Post-production services, and other services for the film and video industry",1.0,1.0,film_radio_tv,1,512190
+5122,Industria del sonidoT,5122,Sound recording industryT,1.0,1.0,music_performing_arts,1,5122
+51221,Productoras discográficasT,51221,Record companiesT,1.0,1.0,music_performing_arts,1,51221
+512210,Productoras discográficas,512210,Record companies,1.0,1.0,music_performing_arts,1,512210
+51222,Producción de material discográfico integrada con su reproducción y distribuciónT,51222,Record production integrated with its reproduction and distributionT,1.0,1.0,music_performing_arts,1,51222
+512220,Producción de material discográfico integrada con su reproducción y distribución,512220,Record production integrated with its reproduction and distribution,1.0,1.0,music_performing_arts,1,512220
+51223,Editoras de músicaT,51223,Music publishersT,1.0,1.0,music_performing_arts,1,51223
+512230,Editoras de música,512230,Music publishers,1.0,1.0,music_performing_arts,1,512230
+51224,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicalesT,51224,Compact disc (CD) and digital video disc (DVD) or music cassettes recordingT,1.0,1.0,music_performing_arts,1,51224
+512240,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales,512240,Compact disc (CD) and digital video disc (DVD) or music cassettes recording,1.0,1.0,music_performing_arts,1,512240
+51229,Otros servicios de grabación del sonidoT,51229,Other sound recording servicesT,1.0,1.0,music_performing_arts,1,51229
+512290,Otros servicios de grabación del sonido,512290,Other sound recording services,1.0,1.0,music_performing_arts,1,512290
+515,Radio y televisiónT,515,Radio and televisionT,1.0,1.0,film_radio_tv,1,515
+5151,Transmisión de programas de radio y televisiónT,5151,Radio and television broadcastingT,1.0,1.0,film_radio_tv,1,5151
+51511,Transmisión de programas de radioT,51511,Radio broadcastingT,1.0,1.0,film_radio_tv,1,51511
+515110,Transmisión de programas de radio,515110,Radio broadcasting,1.0,1.0,film_radio_tv,1,515110
+51512,Transmisión de programas de televisiónT,51512,Television broadcastingT,1.0,1.0,film_radio_tv,1,51512
+515120,Transmisión de programas de televisión,515120,Television broadcasting,1.0,1.0,film_radio_tv,1,515120
+5152,Producción de programación de canales para sistemas de televisión por cable o satelitalesT,5152,Cable or satellite television systems channel programming productionT ,1.0,1.0,film_radio_tv,1,5152
+51521,Producción de programación de canales para sistemas de televisión por cable o satelitalesT,51521,Cable or satellite television systems channel programming productionT ,1.0,1.0,film_radio_tv,1,51521
+515210,Producción de programación de canales para sistemas de televisión por cable o satelitales,515210,Cable or satellite television systems channel programming production ,1.0,1.0,film_radio_tv,1,515210
+518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionadosT",518,"Electronic data processing, hosting, and other related servicesT",1.0,1.0,software,1,518
+5182,"Procesamiento electrónico de información, hospedaje y otros servicios relacionadosT",5182,"Electronic data processing, hosting, and other related servicesT",1.0,1.0,software,1,5182
+51821,"Procesamiento electrónico de información, hospedaje y otros servicios relacionadosT",51821,"Electronic data processing, hosting, and other related servicesT",1.0,1.0,software,1,51821
+518210,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",518210,"Electronic data processing, hosting, and other related services",1.0,1.0,software,1,518210
+51912,Bibliotecas y archivosT,51912,Libraries and archivesT,1.0,1.0,libraries_museums,1,51912
+519121,Bibliotecas y archivos del sector privado,519121,"Libraries and archives, private sector",1.0,1.0,libraries_museums,1,519121
+519122,Bibliotecas y archivos del sector público,519122,"Libraries and archives, public sector",1.0,1.0,libraries_museums,1,519122
+51913,Edición y difusión de contenido exclusivamente a través de Internet y servicios de búsqueda en la redT,51913,Internet content publishing and broadcasting and web search servicesT,1.0,1.0,publishing,1,51913
+519130,Edición y difusión de contenido exclusivamente a través de Internet y servicios de búsqueda en la red,519130,Internet content publishing and broadcasting and web search services,1.0,1.0,publishing,1,519130
+51919,Otros servicios de suministro de informaciónT,51919,Other information provision servicesT,1.0,1.0,publishing,1,51919
+519190,Otros servicios de suministro de información,519190,Other information provision services,1.0,1.0,publishing,1,519190
+5413,"Servicios de arquitectura, ingeniería y actividades relacionadasT",5413,"Architectural, engineering, and related servicesT",1.0,1.0,architecture,1,5413
+54131,Servicios de arquitecturaT,54131,Architectural servicesT,1.0,1.0,architecture,1,54131
+541310,Servicios de arquitectura,541310,Architectural services ,1.0,1.0,architecture,1,541310
+54132,Servicios de arquitectura de paisaje y urbanismoT,54132,Landscape architectural services and urbanism servicesT,1.0,1.0,architecture,1,54132
+541320,Servicios de arquitectura de paisaje y urbanismo,541320,Landscape architectural services and urbanism services,1.0,1.0,architecture,1,541320
+54133,Servicios de ingenieríaT,54133,Engineering servicesT,1.0,,architecture,1,54133
+541330,Servicios de ingeniería,541330,Engineering services,1.0,,architecture,1,541330
+54134,Servicios de dibujoT,54134,Drafting servicesT,1.0,,architecture,1,54134
+541340,Servicios de dibujo,541340,Drafting services,1.0,,architecture,1,541340
+54135,Servicios de inspección de edificiosT,54135,Building inspection servicesT,1.0,,architecture,1,54135
+541350,Servicios de inspección de edificios,541350,Building inspection services,1.0,,architecture,1,541350
+54136,Servicios de levantamiento geofísicoT,54136,Geophysical surveying servicesT,1.0,,architecture,1,54136
+541360,Servicios de levantamiento geofísico,541360,Geophysical surveying services,1.0,,architecture,1,541360
+54137,Servicios de elaboración de mapasT,54137,Mapping servicesT,1.0,,architecture,1,54137
+541370,Servicios de elaboración de mapas,541370,Mapping services,1.0,,architecture,1,541370
+54138,Laboratorios de pruebasT,54138,Testing laboratoriesT,1.0,,architecture,1,54138
+541380,Laboratorios de pruebas,541380,Testing laboratories,1.0,,architecture,1,541380
+5414,Diseño especializadoT,5414,Specialized designT,1.0,1.0,design,1,5414
+54141,Diseño y decoración de interioresT,54141,Interior design and decoratingT,1.0,1.0,design,1,54141
+541410,Diseño y decoración de interiores,541410,Interior design and decorating,1.0,1.0,design,1,541410
+54142,Diseño industrialT,54142,Industrial designT,1.0,1.0,design,1,54142
+541420,Diseño industrial,541420,Industrial design,1.0,1.0,design,1,541420
+54143,Diseño gráficoT,54143,Graphic designT,1.0,1.0,design,1,54143
+541430,Diseño gráfico,541430,Graphic design,1.0,1.0,design,1,541430
+54149,Diseño de modas y otros diseños especializadosT,54149,Fashion design and other specialized designsT,1.0,1.0,design,1,54149
+541490,Diseño de modas y otros diseños especializados,541490,Fashion design and other specialized designs,1.0,1.0,design,1,541490
+5415,Servicios de diseño de sistemas de cómputo y servicios relacionadosT,5415,Computer systems design and related servicesT ,1.0,1.0,software,1,5415
+54151,Servicios de diseño de sistemas de cómputo y servicios relacionadosT,54151,Computer systems design and related servicesT ,1.0,1.0,software,1,54151
+541510,Servicios de diseño de sistemas de cómputo y servicios relacionados,541510,Computer systems design and related services,1.0,1.0,software,1,541510
+5416,"Servicios de consultoría administrativa, científica y técnicaT",5416,"Management, scientific and technical consulting servicesT",1.0,,advertising_marketing,1,5416
+54161,Servicios de consultoría en administraciónT,54161,Management consulting servicesT,1.0,,advertising_marketing,1,54161
+541610,Servicios de consultoría en administración,541610,Management consulting services,1.0,,advertising_marketing,1,541610
+54162,Servicios de consultoría en medio ambienteT,54162,Environmental consulting servicesT,1.0,,advertising_marketing,1,54162
+541620,Servicios de consultoría en medio ambiente,541620,Environmental consulting services,1.0,,advertising_marketing,1,541620
+54169,Otros servicios de consultoría científica y técnicaT,54169,Other scientific and technical consulting servicesT,1.0,,advertising_marketing,1,54169
+541690,Otros servicios de consultoría científica y técnica,541690,Other scientific and technical consulting services,1.0,,advertising_marketing,1,541690
+5418,Servicios de publicidad y actividades relacionadasT,5418,Advertising services and related activitiesT,1.0,1.0,advertising_marketing,1,5418
+54181,Agencias de publicidadT,54181,Advertising agenciesT,1.0,1.0,advertising_marketing,1,54181
+541810,Agencias de publicidad,541810,Advertising agencies,1.0,1.0,advertising_marketing,1,541810
+54182,Agencias de relaciones públicasT,54182,Public relations agenciesT,1.0,1.0,advertising_marketing,1,54182
+541820,Agencias de relaciones públicas,541820,Public relations agencies,1.0,1.0,advertising_marketing,1,541820
+54183,Agencias de compra de medios a petición del clienteT,54183,Media buying agencies on behalf of the customerT,1.0,1.0,advertising_marketing,1,54183
+541830,Agencias de compra de medios a petición del cliente,541830,Media buying agencies on behalf of the customer,1.0,1.0,advertising_marketing,1,541830
+54184,Agencias de representación de mediosT,54184,Media representation agenciesT,1.0,1.0,advertising_marketing,1,54184
+541840,Agencias de representación de medios,541840,Media representation agencies,1.0,1.0,advertising_marketing,1,541840
+54185,Agencias de anuncios publicitariosT,54185,Display advertising agenciesT,1.0,1.0,advertising_marketing,1,54185
+541850,Agencias de anuncios publicitarios,541850,Display advertising agencies,1.0,1.0,advertising_marketing,1,541850
+54186,Agencias de correo directoT,54186,Direct mail agenciesT,1.0,1.0,advertising_marketing,1,54186
+541860,Agencias de correo directo,541860,Direct mail agencies,1.0,1.0,advertising_marketing,1,541860
+54187,Distribución de material publicitarioT,54187,Advertising material distributionT,1.0,1.0,advertising_marketing,1,54187
+541870,Distribución de material publicitario,541870,Advertising material distribution,1.0,1.0,advertising_marketing,1,541870
+54189,Servicios de rotulación y otros servicios de publicidadT,54189,Lettering services and other advertising servicesT,1.0,1.0,advertising_marketing,1,54189
+541890,Servicios de rotulación y otros servicios de publicidad,541890,Lettering services and other advertising services,1.0,1.0,advertising_marketing,1,541890
+5419,"Otros servicios profesionales, científicos y técnicosT",5419,"Other professional, scientific and technical servicesT",1.0,1.0,publishing,1,5419
+54191,Servicios de investigación de mercados y encuestas de opinión públicaT,54191,Marketing research and public opinion polling servicesT,1.0,1.0,publishing,1,54191
+541910,Servicios de investigación de mercados y encuestas de opinión pública,541910,Marketing research and public opinion polling services,1.0,1.0,publishing,1,541910
+54192,Servicios de fotografía y videograbaciónT,54192,Photographic and video taping servicesT,1.0,1.0,publishing,1,54192
+541920,Servicios de fotografía y videograbación,541920,Photographic and video taping services,1.0,1.0,publishing,1,541920
+54193,Servicios de traducción e interpretaciónT,54193,Translation and interpretation servicesT,1.0,1.0,publishing,1,54193
+541930,Servicios de traducción e interpretación,541930,Translation and interpretation services,1.0,1.0,publishing,1,541930
+54199,"Otros servicios profesionales, científicos y técnicosT",54199,"Other professional, scientific and technical servicesT",1.0,1.0,publishing,1,54199
+541990,"Otros servicios profesionales, científicos y técnicos",541990,"Other professional, scientific and technical services",1.0,1.0,publishing,1,541990
+61161,Escuelas de arteT,61161,Fine arts schoolsT ,1.0,1.0,music_performing_arts,1,61161
+611611,Escuelas de arte del sector privado,611611,"Fine arts schools, private sector ",1.0,1.0,music_performing_arts,1,611611
+611612,Escuelas de arte del sector público,611612,"Fine arts schools, public sector ",1.0,1.0,music_performing_arts,1,611612
+61162,Escuelas de deporteT,61162,Sports schoolsT,1.0,,music_performing_arts,1,61162
+611621,Escuelas de deporte del sector privado,611621,"Sports schools, private sector",1.0,,music_performing_arts,1,611621
+611622,Escuelas de deporte del sector público,611622,"Sports schools, public sector",1.0,,music_performing_arts,1,611622
+61163,Escuelas de idiomasT,61163,Language schoolsT,1.0,,music_performing_arts,1,61163
+611631,Escuelas de idiomas del sector privado,611631,"Language schools, private sector",1.0,,music_performing_arts,1,611631
+611632,Escuelas de idiomas del sector público,611632,"Language schools, public sector",1.0,,music_performing_arts,1,611632
+61169,Otros servicios educativosT,61169,Other educational servicesT,1.0,,music_performing_arts,1,61169
+611691,Servicios de profesores particulares,611691,Private tutor services,1.0,,music_performing_arts,1,611691
+611698,Otros servicios educativos proporcionados por el sector privado,611698,"Other educational services, private sector",1.0,,music_performing_arts,1,611698
+611699,Otros servicios educativos proporcionados por el sector público,611699,"Other educational services, public sector",1.0,,music_performing_arts,1,611699
+7111,Compañías y grupos de espectáculos artísticos y culturalesT,7111,Performing arts companies and groupsT,1.0,1.0,music_performing_arts,1,7111
+71111,Compañías de teatroT,71111,Theater companiesT,1.0,1.0,music_performing_arts,1,71111
+711111,Compañías de teatro del sector privado,711111,"Theater companies, private sector",1.0,1.0,music_performing_arts,1,711111
+711112,Compañías de teatro del sector público,711112,"Theater companies, public sector",1.0,1.0,music_performing_arts,1,711112
+71112,Compañías de danzaT,71112,Dance companiesT,1.0,1.0,music_performing_arts,1,71112
+711121,Compañías de danza del sector privado,711121,"Dance companies, private sector",1.0,1.0,music_performing_arts,1,711121
+711122,Compañías de danza del sector público,711122,"Dance companies, public sector",1.0,1.0,music_performing_arts,1,711122
+71113,Cantantes y grupos musicalesT,71113,Singers and musical groupsT,1.0,1.0,music_performing_arts,1,71113
+711131,Cantantes y grupos musicales del sector privado,711131,"Singers and musical groups, private sector",1.0,1.0,music_performing_arts,1,711131
+711132,Grupos musicales del sector público,711132,"Singers and musical groups, public sector",1.0,1.0,music_performing_arts,1,711132
+71119,Otras compañías y grupos de espectáculos artísticosT,71119,Other performing arts companies and groupsT,1.0,1.0,music_performing_arts,1,71119
+711191,Otras compañías y grupos de espectáculos artísticos del sector privado,711191,"Other performing arts companies and groups, private sector",1.0,1.0,music_performing_arts,1,711191
+711192,Otras compañías y grupos de espectáculos artísticos del sector público,711192,"Other performing arts companies and groups, public sector",1.0,1.0,music_performing_arts,1,711192
+7112,Deportistas y equipos deportivos profesionalesT,7112,Professional athletes and sports teamsT,1.0,,music_performing_arts,1,7112
+71121,Deportistas y equipos deportivos profesionalesT,71121,Professional athletes and sports teamsT,1.0,,music_performing_arts,1,71121
+711211,Deportistas profesionales,711211,Professional athletes,1.0,,music_performing_arts,1,711211
+711212,Equipos deportivos profesionales,711212,Professional sports teams,1.0,,music_performing_arts,1,711212
+7113,"Promotores de espectáculos artísticos, culturales, deportivos y similaresT",7113,"Promoters of performing arts, sports and similar eventsT",1.0,1.0,music_performing_arts,1,7113
+71131,"Promotores de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlosT",71131,"Promoters of performing arts, sports and similar events with facilitiesT",1.0,1.0,music_performing_arts,1,71131
+711311,"Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",711311,"Promoters of performing arts, sports and similar events with facilities, private sector",1.0,1.0,music_performing_arts,1,711311
+711312,"Promotores del sector público de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",711312,"Promoters of performing arts, sports and similar events with facilities, public sector",1.0,1.0,music_performing_arts,1,711312
+71132,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlosT",71132,"Promoters of performing arts, sports and similar events without facilitiesT",1.0,1.0,music_performing_arts,1,71132
+711320,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos",711320,"Promoters of performing arts, sports and similar events without facilities",1.0,1.0,music_performing_arts,1,711320
+7114,"Agentes y representantes de artistas, deportistas y similaresT",7114,"Agents and managers for artists, athletes and similar figuresT",1.0,1.0,music_performing_arts,1,7114
+71141,"Agentes y representantes de artistas, deportistas y similaresT",71141,"Agents and managers for artists, athletes and similar figuresT",1.0,1.0,music_performing_arts,1,71141
+711410,"Agentes y representantes de artistas, deportistas y similares",711410,"Agents and managers for artists, athletes and similar figures",1.0,1.0,music_performing_arts,1,711410
+7115,"Artistas, escritores y técnicos independientesT",7115,"Independent artists, writers and techniciansT",1.0,1.0,music_performing_arts,1,7115
+71151,"Artistas, escritores y técnicos independientesT",71151,"Independent artists, writers and techniciansT",1.0,1.0,music_performing_arts,1,71151
+711510,"Artistas, escritores y técnicos independientes",711510,"Independent artists, writers and technicians",1.0,1.0,music_performing_arts,1,711510
+712,"Museos, sitios históricos, zoológicos y similaresT",712,"Museums, historical sites, zoos and similar institutionsT",1.0,1.0,libraries_museums,1,712
+7121,"Museos, sitios históricos, zoológicos y similaresT",7121,"Museums, historical sites, zoos and similar institutionsT",1.0,1.0,libraries_museums,1,7121
+71211,MuseosT,71211,MuseumsT,1.0,1.0,libraries_museums,1,71211
+712111,Museos del sector privado,712111,"Museums, private sector",1.0,1.0,libraries_museums,1,712111
+712112,Museos del sector público,712112,"Museums, public sector",1.0,1.0,libraries_museums,1,712112
+71212,Sitios históricosT,71212,Historical sitesT,1.0,1.0,libraries_museums,1,71212
+712120,Sitios históricos,712120,Historical sites,1.0,1.0,libraries_museums,1,712120
+71213,Jardines botánicos y zoológicosT,71213,Botanical gardens and zoosT,1.0,1.0,libraries_museums,1,71213
+712131,Jardines botánicos y zoológicos del sector privado,712131,"Botanical gardens and zoos, private sector",1.0,1.0,libraries_museums,1,712131
+712132,Jardines botánicos y zoológicos del sector público,712132,"Botanical gardens and zoos, public sector",1.0,1.0,libraries_museums,1,712132
+71219,"Grutas, parques naturales y otros sitios del patrimonio cultural de la naciónT",71219,"Caves, natural parks and other national cultural heritage sitesT",1.0,1.0,libraries_museums,1,71219
+712190,"Grutas, parques naturales y otros sitios del patrimonio cultural de la nación",712190,"Caves, natural parks and other national cultural heritage sites",1.0,1.0,libraries_museums,1,712190
+8129,Servicios de revelado e impresión de fotografías y otros servicios personales,8129,Photograph developing and printing and other personal services,1.0,1.0,publishing,1,8129
+81291,Servicios de revelado e impresión de fotografías,81291,Photograph developing and printing services,1.0,1.0,publishing,1,81291
+812910,Servicios de revelado e impresión de fotografías,812910,Photograph developing and printing services,1.0,1.0,publishing,1,812910
+81299,Otros servicios personales,81299,Other personal services,1.0,1.0,publishing,1,81299
+812990,Otros servicios personales,812990,Other personal services,1.0,1.0,publishing,1,812990
