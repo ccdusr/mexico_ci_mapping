@@ -15,8 +15,7 @@ Project Organization
     ├── notebooks
     ├── references
     │   └── reading
-    ├── reports
-    │   ├── data_sources
-    │   ├── figures
-    │   └── project_reports_and_slides
-    └── src
+    └── reports
+        ├── data_sources
+        ├── figures
+        └── project_reports_and_slides
