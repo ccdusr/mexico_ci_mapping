@@ -19,9 +19,9 @@ jupyter notebook
 ```
 3. Se debería poder ver el notebook en una pestaña de su navegador.
 
-4. Dentro de jupyter navegar hasta la carpeta "notebooks", la cual se encuentra dentro del proyecto descargado.
+4. Dentro de jupyter navegar hasta la carpeta *notebooks*, la cual se encuentra dentro del proyecto descargado.
 
-5. Abrir y correr el notebook "denue".
+5. Abrir y correr el notebook *denue.ipynb*.
 
 Project Organization
 ------------
