@@ -1,0 +1,6 @@
+matplotlib
+BeautifulSoup4
+pandas
+geopandas
+numpy
+requests
