@@ -1,5 +1,4 @@
-Mexico Mapping
-==============================
+# Mexico Mapping
 
 Un proyecto para mapear las industrias creativas en México.
 
@@ -11,11 +10,11 @@ Un proyecto para mapear las industrias creativas en México.
 ## Corriendo el notebook
 
     1. Descargar el proyecto desde la línea de comandos:
-        ```console
+        ```bash
         git clone https://github.com/ccdusr/mexico_ci_mapping.git
         ```
     2. Abrir Jupyter desde la línea de comandos:
-        ```console
+        ```bash
         jupyter notebook
         ```
     3. Se debería poder ver el notebook en una pestaña de su navegador.
