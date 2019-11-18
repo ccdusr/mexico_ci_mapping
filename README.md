@@ -34,8 +34,7 @@ jupyter notebook
 
 6. Abrir y correr el notebook *denue.ipynb*.
 
-Project Organization
-------------
+## Organización del proyecto
     .
     ├── data
     │   ├── denue: Datos de INEGI.
