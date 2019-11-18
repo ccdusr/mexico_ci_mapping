@@ -10,13 +10,13 @@ Un proyecto para mapear las industrias creativas en México.
 ## Corriendo el notebook
 
 1. Descargar el proyecto desde la línea de comandos:
-    ```bash
-    git clone https://github.com/ccdusr/mexico_ci_mapping.git
-    ```
+```bash
+git clone https://github.com/ccdusr/mexico_ci_mapping.git
+```
 2. Abrir Jupyter desde la línea de comandos:
-    ```bash
-    jupyter notebook
-    ```
+```bash
+jupyter notebook
+```
 3. Se debería poder ver el notebook en una pestaña de su navegador.
 
 4. Dentro de jupyter navegar hasta la carpeta "notebooks", la cual se encuentra dentro del proyecto descargado.
