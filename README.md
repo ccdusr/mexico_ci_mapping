@@ -9,7 +9,7 @@ Un proyecto para mapear las industrias creativas en México.
 - Jupyter Notebook (https://jupyter.readthedocs.io/en/latest/install.html)
 - Anaconda (opcional<sup>[1]</sup>) (https://www.anaconda.com)
 
-<a name="anaconda">1</a> La instalación de Anaconda incluye Python y Jupyter Notebook.
+<a name="anaconda">1.</a> La instalación de Anaconda incluye Python y Jupyter Notebook.
 
 ## Manual de uso
 
