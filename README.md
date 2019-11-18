@@ -7,9 +7,9 @@ Un proyecto para mapear las industrias creativas en México.
 - Git (https://git-scm.com)
 - Python (https://www.python.org/downloads/)
 - Jupyter Notebook (https://jupyter.readthedocs.io/en/latest/install.html)
-- Anaconda (opcional[^1]) (https://www.anaconda.com)
+- Anaconda (opcional<sup>[1]</sup>) (https://www.anaconda.com)
 
-[^1] La instalación de Anaconda incluye Python y Jupyter Notebook.
+<a name="anaconda">1</a> La instalación de Anaconda incluye Python y Jupyter Notebook.
 
 ## Manual de uso
 
