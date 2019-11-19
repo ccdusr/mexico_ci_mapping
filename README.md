@@ -9,7 +9,7 @@ Un proyecto para mapear las industrias creativas en México.
 - Jupyter Notebook (https://jupyter.readthedocs.io/en/latest/install.html)
 - Anaconda (opcional<sup>[1]</sup>) (https://www.anaconda.com)
 
-<a name="anaconda">1.</a> La instalación de Anaconda incluye Python y Jupyter Notebook.
+<a name="anaconda">1.</a> La instalación de Anaconda contiene Python y Jupyter, por lo tanto no es necesario, si se instala, también instalar por separado Python y Jupyter Notebook.
 
 ## Manual de uso
 
@@ -32,7 +32,9 @@ jupyter notebook
 
 5. Dentro de la pestaña de su navegador, donde se abrió Jupyter, navegar hasta la carpeta *notebooks*, la cual se encuentra dentro del proyecto descargado en el paso 1.
 
-6. Abrir y correr el notebook *denue.ipynb*.
+6. Ejecutar el notebook *denue.ipynb*.
+
+7. Para ejecutar celdas individuales del notebook se presiona Shift-Enter.
 
 ## Organización del proyecto
     .
