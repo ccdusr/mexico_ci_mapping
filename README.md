@@ -28,9 +28,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-4. Se debería poder ver el notebook en una pestaña de su navegador.
+4. Se debería poder ver Jupyter en una pestaña de su navegador.
 
-5. Dentro de jupyter navegar hasta la carpeta *notebooks*, la cual se encuentra dentro del proyecto descargado.
+5. Dentro de la pestaña de su navegador, donde se abrió Jupyter, navegar hasta la carpeta *notebooks*, la cual se encuentra dentro del proyecto descargado en el paso 1.
 
 6. Abrir y correr el notebook *denue.ipynb*.
 
